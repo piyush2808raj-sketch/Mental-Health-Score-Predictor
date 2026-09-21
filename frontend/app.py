@@ -153,4 +153,4 @@ if button_clicked:
             st.error(f"Oops! The backend sent an error: {response.text}")
             
     except requests.exceptions.ConnectionError:
-        st.error("Cannot find the backend! Make sure your FastAPI server is running on http://127.0.0.1:8000")
+        st.error("Cannot find the backend! Make sure your FastAPI server is running on https://mental-health-score-predictor-api.onrender.com ")
