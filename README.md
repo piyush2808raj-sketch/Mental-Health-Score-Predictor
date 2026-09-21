@@ -6,6 +6,17 @@ The project uses **Scikit-learn** for machine learning, **FastAPI** for the back
 
 > **Note:** This project is for educational and demonstration purposes only. The predicted score is not a medical diagnosis.
 
+## 🚀 Live Demo
+
+### 🌐 Streamlit Frontend
+[Open Mental Health Score Predictor](https://mental-health-score-predictor-qv1d.onrender.com)
+
+### ⚡ FastAPI Backend
+[Open API](https://mental-health-score-predictor-api.onrender.com)
+
+### 📖 API Documentation
+[Open Swagger API Docs](https://mental-health-score-predictor-api.onrender.com/docs)
+
 ## 🚀 Features
 
 - 🧠 Predicts a user's mental health score using a trained machine learning model
